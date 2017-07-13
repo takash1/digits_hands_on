@@ -1,1 +1,3 @@
-# digits_hands_on
+# DIGITSハンズオン
+
+See [Notebook](DeepLearningHandsOn.ipynb).
